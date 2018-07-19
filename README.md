@@ -20,6 +20,7 @@ Thats is done in the `$(document).ready` function as example.
 
 ## Donations:
 Open source project to improve the usability with APIs, feel free to donate to keep it up date so I can improve it and add new functionalities to the project :)
+
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KX6SJ8UE3Y7UA)
 Thanks!
 
