@@ -20,13 +20,7 @@ Thats is done in the `$(document).ready` function as example.
 
 ## Donations:
 Open source project to improve the usability with APIs, feel free to donate to keep it up date so I can improve it and add new functionalities to the project :)
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KX6SJ8UE3Y7UA">
-<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KX6SJ8UE3Y7UA)
 Thanks!
 
 ## License:
