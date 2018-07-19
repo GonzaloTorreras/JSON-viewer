@@ -8,3 +8,14 @@ It have features like:
 
 So nice, isn't it?
 
+
+*Use:*
+You need jQuery and clipboard.
+You can copy/paste the `script.js` file and cleanup the `$(document).ready` function.
+Call the `init( ".selector" );` with the selector where you want to format the JSON (not the DOM `$(".element")` element).
+
+*Recomendations:* 
+If your element has the JSON without indent spaces (like when is inserted by Chrome in the `<pre>` element.
+Probably you need to read the text in the element convert back to JSON with the tab index you want and then convert back as an string and insert in the element again.
+Thats is done in the `$(document).ready` function as example.
+
