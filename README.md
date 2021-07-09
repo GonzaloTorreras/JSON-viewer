@@ -18,12 +18,6 @@ If your element has the JSON without indent spaces (like when is inserted by Chr
 Probably you need to read the text in the element convert back to JSON with the tab index you want and then convert back as an string and insert in the element again.
 Thats is done in the `$(document).ready` function as example.
 
-## Donations:
-Open source project to improve the usability with APIs, feel free to donate to keep it up date so I can improve it and add new functionalities to the project :)
-
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KX6SJ8UE3Y7UA)
-Thanks!
-
 ## License:
 MIT License
 
